@@ -17,11 +17,12 @@ This repository contains the implementation of the proposed framework described 
 ## Dataset
 
 PlantVillage Tomato Leaf Dataset
+Plant-Doc-Dataset
 
 Dataset Link:
 
 (https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
-
+https://www.kaggle.com/datasets/abdulhasibuddin/plant-doc-dataset
 ## Requirements
 
 See requirements.txt
