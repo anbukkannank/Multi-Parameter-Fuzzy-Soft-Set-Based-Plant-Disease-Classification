@@ -31,6 +31,6 @@ See requirements.txt
 
 Open the notebook:
 
-FinalPlantVillageTomato.ipynb
+FinalRevisedPlantVillageTomato.ipynb
 
 and execute all cells.
